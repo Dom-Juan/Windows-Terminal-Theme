@@ -1,5 +1,5 @@
 # Windows-Terminal-Theme
-A settings json file to apply on your onw windows terminal!
+A settings json file to apply on your own Windows Terminal!
 ## THIS REPO DOESN'T PROVIDE THE IMAGE TO PUT AS BACKGROUND ON THE TERMINAL
 # Things you need:
 ###### 1. Windows 10 with a build that install Windows terminal
