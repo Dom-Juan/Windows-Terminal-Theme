@@ -27,6 +27,9 @@ It HAVE to be an image named Terran.png(unless you want to change the settings o
 After pasting your png named Terran, go back one folder and enter the folder named LocalState, paste the settings.json here:
 <img src="https://github.com/Dom-Juan/Windows-Terminal-Theme/blob/master/Images%20for%20the%20tutorial/img2.png">
 
+The end product:
+<img src="https://github.com/Dom-Juan/Windows-Terminal-Theme/blob/master/Images%20for%20the%20tutorial/TerranPrompt.png">
+
 You can modify it if you know how code stuff works! just dont forget to access [Microsoft documentation](https://docs.microsoft.com/en-us/windows/terminal/customize-settings/global-settings).
 
 
